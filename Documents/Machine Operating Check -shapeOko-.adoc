@@ -1,0 +1,40 @@
+= Machine Operating Checklist
+
+.  Be safe -- wear appropriate safety equipment (esp. eyes (safety glasses/goggles), and ears (hearing protection -- at least foam ear plugs)), ensure clothing, hair and jewelry cannot become caught up in the machine. If necessary, arrange for dust collection and proper ventilation (if necessary, use respiratory gear suitable to the dust particles of the material being milled). Consider the possibility of the spindle starting a fire by friction and take suitable precautions (having a fire extinguisher handy, and other suitable precautions).
+
+.  Check the machine (all bolts and set screws tight, belts tight and in good shape, wiring in good condition with continuity and securely fastened, and nothing frayed or broken, everything clear and safe). The bolted down, inverted belts which result when using the belt anchor clips make this somewhat difficult -- use a mirror to examine the belts while moving the machine along its full range of movement.
+
+
+.check the machine
+[IMPORTANT]
+====
+ Note that it is especially important to check the machine after a crash or a any failed cut which induces chatter or excessive vibration.
+====
+
+.  Secure the workpiece (right-side up and in the desired orientation) to the worksurface using a technique appropriate to the material (see Workholding).
+
+.  Mount an appropriate spindle and ensure that it is vertical and square to the machine and well-secured.
+
+.  Examine the End mill to ensure that it is sharp and in good condition and not chipped (this is best done with a loupe or magnifying glass), install it per the spindle manufacturer’s directions, check to make certain that the collet is tight and will not work loose during operation (it needs to be more than hand-tight -- the machine will take no notice or care if it works loose).
+
+.  Ensure the work area is clear and all cables and wires run without interference. Especially check that there is nothing beneath the rails which might interfere with the wheels.
+
+.  Connect the machine to the computer (power up PC, turn on power for the machine, start the comm/control program, connect the USB cable, wait until the micro-controller boots up, open the connection to the machine). If necessary, home the tool to the proper place in relation to the workpiece. 
+
+.  (optional) Traverse the working boundary of the job as a final check.
+
+.  Browse for the NC file which you have already simulated and send it to the machine.Ensure that your machine will not go to sleep or suspend or hibernate while running the job.
+
+.  Monitor the machine while it operates, ensuring there is no build-up of dust, debris or fumes, and that nothing works loose, keeping clear of the work area. Do not reach into the machine’s working envelope, nor insert any object into it while the machine is operating. Once the job is complete, turn off the spindle, return the gantry to the home position, or a known offset from home (one may want to wait to turn off the spindle until it’s been homed) and ensure the end mill has stopped spinning before removing the finished piece and any waste. Store endmills carefully when not in use so as to protect the edges. Collets and accessories should be cleaned between uses -- wiped off with a suitable solvent such as isopropyl alcohol.
+
+.recycle or safely dispose
+[NOTE]
+====
+Be careful to recycle or safely dispose of milling debris and dust, keeping in mind flammability, (potential) spontaneous combustion, and chemical considerations. Even natural materials can have surprising implications for disposing of them, e.g., walnut wood dust is aleopathic (inhibits plant growth) and an irritant to the skin and breathing tract and potentially poisonous to some animals in addition to the typical spontaneous combustion hazard which sawdust poses.
+====
+.Maintenance
+[TIP]
+====
+after each use, it is suggested that the machine be vacuumed to clean it (using an HEPA filter suited to the material dust), then wipe off the machine w/ a paper towel or rag dampened w/ a suitable lubricant (3-in-1 oil is suggested)
+====
+

@@ -1,0 +1,32 @@
+= Basic workflow 2D
+
+== Create part file with Inkscape
+.  Open Inkscape
+.  Create Text with text tool (scale your text to the size you want)
+.  Select your text (with the arrow) and move it to X=0, Y=0 via the menu bar (shown in red rectangle -> )
+.  With the text selected, click Path -> Object to Path
+.  Ungroup your new paths, click Object -> Ungroup (you'll notice each letter now has a box around it)
+.  Save your file as DXF via the Big Blue Saw Plugin (*.DXF), close inkscape
+
+== Create toolpaths with ??
+.  Click File-> Import, browse and open the DXF file created in step 6
+
+. rescale?
+
+. ??? there more need to fill in
+
+== Simulate toolpaths with 
+. do this
+. do that
+. we working now
+
+== Run your job with the [Communication / Control] program of your choice
+
+1.  Check the machine (all bolts and set screws tight, belts tight and in good shape, everything clear and safe)
+2.  Secure the workpiece to the worksurface using a technique appropriate to the material Workholding
+3.  Mount an appropriate spindle and endmill
+4.  Home the tool to the proper place in relation to the workpiece
+5.  Ensure the work area is clear and all cables and wires run w/o interference
+6.  Browse for the NC file we just simulated
+7.  Send it to the machine
+8.  Monitor the machine, keeping clear of the work area

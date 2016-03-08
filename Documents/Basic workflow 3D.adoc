@@ -1,0 +1,29 @@
+
+= Basic workflow 3D
+
+== Create part file
+
+This can be done w/ any [CAD] application which can export to a format which your CAM program can interpret (the example below uses STP). Other choices include FreeCAD, SketchUp
+
+== Create toolpaths with ??
+
+1.  Use File -> Import to open STP/STEP file. The Objects pane on the left will show "STEP solid" entry.
+
+
+1.  Right click on Tools in the object pane.
+2.  Select New End Mill (or New whatever tool type you need)
+3.  Fill in the information on the tool
+4.  Click the green checkmark in the Properties tab when you have the tool defined
+5.  To save the tool in the default set: Right click on Tools, select Export, save in the default location with the file name default.tooltable.
+Reordering machining operations:
+
+1.  You can click-drag the Pocket and Profile entries in the Operations list to reorder the operations.
+
+== Simulate toolpaths with 
+
+.  Click File-> Open
+.  Find the NC file you saved from 
+.  Watch in amazement!
+.  If you are impatient, click the fast forward button, directly to the right of the 'Play button' to speed things up.
+
+== Run your job with a G-Code Communication/Control Program

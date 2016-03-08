@@ -1,0 +1,9 @@
+= Materials that can be machined by the Nomad883
+
+Because the Nomad has a rigid frame and DC brushless spindle, it's designed to accurately cut in materials up through the hardness of non-ferrous alloys such as brass and even aerospace grade aluminum. Some examples of materials that are appropriate include:
+
+* Hardwoods such as Maple, Ash, Basswood, Birch, Cherry, Walnut, Poplar, and Oak
+* Softwoods such as Pine, Cedar, Balsa and Fir
+* Plastics such as ABS, Delrin (Acetal), Polycarbonate (PC), Acrylic (PMMA), Nylon, HDPE, LDPE, PP, PET, and PVC, Polyethylene and Polyurethanes
+* Synthetics & composites such as Renshape and other Polyurethane resins with fillers, as well as foams
+* Metals such as copper, brass, and aluminum, to include 6061 and 7075 alloys for example.
