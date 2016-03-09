@@ -1,0 +1,20 @@
+= CNC Routing
+Author Name
+:doctype: book
+:encoding: utf-8
+:lang: en
+:toc: left
+:numbered:
+
+
+intro to CNC
+
+include::End-Mills.adoc[]
+
+Software
+
+include::Machine-Operating-Check-List-shapeOko.adoc[]
+
+
+
+include::Materials-Nomad883.adoc[]
